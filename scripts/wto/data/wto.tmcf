@@ -1,0 +1,9 @@
+Node: E:CSV->E0
+typeOf: dcs:StatVarObservation
+variableMeasured: C:CSV->statVar
+observationDate: C:CSV->year
+observationPeriod: "P1Y"
+observationAbout: C:CSV->countryCode
+partnerCountryCode: C:CSV->partnerCountryCode
+value: C:CSV->value
+unit: C:CSV->unit
